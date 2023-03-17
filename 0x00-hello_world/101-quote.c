@@ -1,5 +1,5 @@
 #include <unistd.h>
-i/**
+/**
  * main - A c program that print in line to the standard error
  * Return: Always 1.
  */
