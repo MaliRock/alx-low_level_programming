@@ -10,7 +10,7 @@ int main(void)
 {
 	int count;
 
-	unsinged; long fib 1 = 0, fib2 = 1, sum;
+	unsinged long fib 1 = 0, fib2 = 1, sum;
 
 	for (count = 0; count < 50; count++)
 	{
@@ -23,7 +23,7 @@ int main(void)
 		if (count == 49)
 			printf("\n");
 		else
-			printf(",");
+			printf(", ");
 	}
 
 	return (0);
