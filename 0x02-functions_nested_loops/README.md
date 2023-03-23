@@ -1,1 +1,1 @@
-0x02.c functions, nestloop
+0x02.c functions and nasted loop
